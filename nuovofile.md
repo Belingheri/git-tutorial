@@ -1,1 +1,1 @@
-Questo è il nuovo file
+Questo è un nuovo contenuto
